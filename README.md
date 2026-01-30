@@ -4,7 +4,7 @@
 ## 1. Project Description
 An exploratory data analysis project examining relationships between borrower characteristics and loan attributes using Python-based EDA and SQL queries.
 
-This project was a collaboration with [Isis Hassan](https://github.com/isishassan) and Project repo can be found [here](https://github.com/isishassan/EDA_SQL_Loans)
+This project was a collaboration with [Isis Hassan](https://github.com/isishassan) and project repo can be found [here](https://github.com/isishassan/EDA_SQL_Loans)
 
 ## 2. Dataset Description
 - **Data Source:** [Predicting Loan Payback](https://www.kaggle.com/competitions/playground-series-s5e11/data) from kagglehub
